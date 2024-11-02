@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+}
+.prouduct{
+    
+    width: 19%;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 2px  gray solid;
+    padding: 5px;
+    
+    
+}
+
+.prouduct img{
+    width: 100%;
+    
+}
+.oldp{
+    
+    color: red;
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+
+}
+.test{  
+  width: 80%;
+  margin: auto;
+    
+}
+.newp{
+    color: green;
+    float: left;
+    margin-right: 5px;
+
+}
+.shop{
+    padding: 15px;
+    border-color: blue ;
+    background-color: blue;
+    color: white;
+}
+.fav{
+    padding: 15px;
+    border-color: blue;
+    background-color: white;
+    color: blue;
+}
